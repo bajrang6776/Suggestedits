@@ -8,33 +8,19 @@ metadata:
 ---
 # Overview
 
-Pivots enables you to explore, compare, and analyze user behavior across multiple dimensions using flexible, interactive tables and visualizations. It helps you break down large volumes of event data into meaningful patterns, allowing you to answer what is happening, where it is happening, and why it is happening.
+Pivots 2.0 is an exploratory analytics capability that helps you derive meaningful insights from your user data by summarizing events in interactive tables and visualizations. It lets you break down large volumes of data across multiple dimensions, such as events, segments, properties, and time, so you can quickly spot patterns, trends, and outliers without writing complex queries.
 
-With Pivots, you can quickly identify trends, outliers, and correlations across user segments, properties, and time without writing complex queries.
+A pivot analysis helps answer questions such as:
 
-Pivots 2.0 empowers you to:
-
-* Slice user behavior across multiple dimensions
-* Visualize complex datasets with clarity
-* Identify trends, patterns, and anomalies
-* Make informed, data-driven decisions quickly
-
-By combining flexibility, performance, and powerful visualizations, Pivots 2.0 makes exploratory analytics accessible to everyone.
+* Which product categories are performing best, and at what time of day?
+* In which city are sales for a specific brand or product the lowest?
+* How much sports content do premium users consume across different days of the week?
 
 <Callout icon="📘" theme="info">
   #### Public Beta
 
   This feature is released in Public Beta. For more information about this feature or any queries, contact your Customer Success Manager or the [CleverTap Support](https://help.clevertap.com/hc/en-us/requests/new).
 </Callout>
-
-# Key Benefits
-
-By slicing and aggregating event data across dimensions, Pivots transform raw events into actionable insights. Pivots help you answer questions such as:
-
-* Which products, categories, or content types perform best?
-* How does user behavior vary across cities, devices, or languages?
-* Which user segments generate the highest revenue or engagement?
-* At what times or days does a specific action peak or drop?
 
 # Getting Started
 
